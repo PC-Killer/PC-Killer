@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @PC-Killer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 欢迎来到 PC-Killer 的主页！
 
-<!---
-PC-Killer/PC-Killer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Welcome to PC-Killer's Homepage!
+
+Hmm，也没什么要说的，那就不说了吧：）
+Hmm, there's nothing to say, so I'd like to say nothing :)
